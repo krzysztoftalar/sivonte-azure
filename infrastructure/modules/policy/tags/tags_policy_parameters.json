@@ -1,0 +1,34 @@
+{
+    "owner_tag": {
+        "type": "String",
+        "metadata": {
+            "displayName": "Owner tag",
+            "description": "Name of the tag, such as 'owner'"
+        },
+        "defaultValue": "Owner"
+    },
+    "project_tag": {
+        "type": "String",
+        "metadata": {
+            "displayName": "Project tag",
+            "description": "Name of the tag, such as 'project'"
+        },
+        "defaultValue": "Project"
+    },
+    "environment_tag": {
+        "type": "String",
+        "metadata": {
+            "displayName": "Environment tag",
+            "description": "Name of the tag, such as 'environment'"
+        },
+        "defaultValue": "Environment"
+    },
+    "management_tag": {
+        "type": "String",
+        "metadata": {
+            "displayName": "Management tag",
+            "description": "Name of the tag, such as 'management'"
+        },
+        "defaultValue": "Management"
+    }
+}
